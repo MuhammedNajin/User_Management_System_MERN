@@ -1,0 +1,30 @@
+.signup-container {
+    width: 400px; /* Adjust width as needed */
+    margin: 4rem auto; /* Center the container horizontally */
+  
+    padding: 20px;
+    border: none;/* Add a border for visual separation */
+    border-radius: 8px; /* Rounded corners for a modern look */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for depth */
+  }
+.signup-heading{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+  .myform{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+ 
+
+  .input-container {
+    margin-top: 1rem;
+  }
+
+  .submit-button{
+    margin-top: 20px;
+  }
+
